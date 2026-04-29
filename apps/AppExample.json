@@ -11,7 +11,7 @@
     "ratingsCount": "0", // Here you can change the Ratingscount and please delete this Comment before Publishing
     "size": "8.33 MB", // Here you can change the App Size please use the Real Size for the App and please delete this Comment before Publishing
     "ageRating": "Everyone", // Here comes the AgeRating if this a App that is 18+ please changed Everyone to 18+ and please delete this Comment before Publishing
-    "imgUrl": "https://reworkw8.github.io/RwStoreMasterServer/images/appicon.png", // Here can you change the App Icon and please delete this Comment before Publishing
+    "imgUrl": "https://github.com/OpenGlebsur/win8storerevivalserver/blob/main/images/WSStoreReworkLogo.png?raw=true", // Here can you change the App Icon and please delete this Comment before Publishing
     "pageimg1": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg1.PNG", // Here can you change the App Screenshot 1 and please delete this Comment before Publishing
     "pageimg2": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg2.PNG", // Here can you change the App Screenshot 2 and please delete this Comment before Publishing
     "pageimg3": "https://reworkw8.github.io/RwStoreMasterServer/images/adobePhotoshopimg3.png", // Here can you change the App Screenshot 3 and please delete this Comment before Publishing
