@@ -49,6 +49,6 @@ app.get('/RwStoreMasterServer/apps/:appName.json', (req, res) => {
 // Start the Server
 app.listen(PORT, () => {
     console.log(`RwStoreMasterServer is running on port ${PORT}`);
-    console.log(`Main Directory: http://localhost:${PORT}/RwStoreMasterServer/mainPage.json`);
-    console.log(`App Directory:  http://localhost:${PORT}/RwStoreMasterServer/apps/[filename].json`);
+    console.log(`Main Directory: https://reworkw8.github.io/WSRMasterServer/AllApps.json`);
+    console.log(`App Directory:  https://github.com/OpenGlebsur/win8storerevivalserver/tree/main/appxs`);
 });
